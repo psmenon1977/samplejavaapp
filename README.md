@@ -1,5 +1,5 @@
 
 Sample Java Applicaiton V1.7
-testing jenkins trigger
+jenkins trigger
 ravi change
 
